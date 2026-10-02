@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/edgeruntime.dir/link.d CMakeFiles/edgeruntime.dir/src/main.cpp.o -o edgeruntime  /home/david/Documents/1_Final_Year_Engineering/Embedded/C_C++_projects/v8/v8/out.gn/x64.release.sample/obj/libv8_monolith.a -lpthread -ldl -lrt

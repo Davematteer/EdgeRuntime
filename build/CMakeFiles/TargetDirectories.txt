@@ -1,0 +1,3 @@
+/home/david/Documents/1_Final_Year_Engineering/Embedded/C_C++_projects/edgeruntime/build/CMakeFiles/edgeruntime.dir
+/home/david/Documents/1_Final_Year_Engineering/Embedded/C_C++_projects/edgeruntime/build/CMakeFiles/edit_cache.dir
+/home/david/Documents/1_Final_Year_Engineering/Embedded/C_C++_projects/edgeruntime/build/CMakeFiles/rebuild_cache.dir
